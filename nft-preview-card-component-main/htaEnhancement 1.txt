@@ -1,0 +1,52 @@
+Building Details
+	Building Information
+		Occupied Since*****
+		Are tenats required to carry Tenant insurance/
+		Building Style/
+		Foundation/
+		Floor Validated****
+		Year Built/
+		% Finished Basement
+		Monitoring Station & Address ******
+		Hot water Tank Year
+		washing Machine Location
+		
+		
+		
+		
+-Need the Assigning Sheet == Will give me the Assign Sheet probably next week
+-Does 0 and 70 need to have Faculative in the description (1.9) == Just 0 ?
+-Are we looking at the facultive column instead of the description == Looking at Description but need to add in the your own content ?
+-How will we know which underwriter to assign the activiy to == Apparently his will get asigned to a group of people in Policy Center ?
+
+
+
+--How are you extracting the assign activity datatable ?
+--Based on how you did ACC what should be done next ? 
+
+
+--Add to Orchestrator State 
+--Work on AddToOrchestrator.xaml (set up PC Filters)
+
+
+
+-Determine which type of Underwriter to assign to (1.9) (3)
+-Input Underwiter First & Last Name (2)
+-Select Name Assign List (2)
+-Search and Assign Activities with "none selected" filter on (3)
+
+
+
+
+
+
+--Open activities by subject
+--Search transaction in My Queue 
+--Read attendance data from assign file and filter
+--Read language data from assing file and filter
+--Find the lowest activity number
+--Assign on Policy Center
+--Increase count on excel file 
+
+
+
